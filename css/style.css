@@ -241,7 +241,7 @@
 
 .product-item .btn-action {
     position: absolute;
-    width: 50%;
+    width: 100%;
     bottom: -40px;
     left: 0;
     opacity: 0;
@@ -254,7 +254,7 @@
 }
 
 .product-carousel .owl-nav {
-    width: 50%;
+    width: 100%;
     text-align: center;
     display: flex;
     justify-content: center;
